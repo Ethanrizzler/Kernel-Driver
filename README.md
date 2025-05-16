@@ -20,7 +20,8 @@
 - Download in Windows Driver Kit In Visual studio installer other steps are included in WDK download website!
 - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 - https://learn.microsoft.com/de-de/windows-hardware/drivers/download-the-wdk
-
+- Use KdMapper too load the driver into your System
+- https://github.com/TheCruZ/kdmapper
 
 # Working on?
 - counter strike 2
