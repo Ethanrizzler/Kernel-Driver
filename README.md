@@ -21,4 +21,9 @@
 - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 - https://learn.microsoft.com/de-de/windows-hardware/drivers/download-the-wdk
 
+
+# Working on?
+- counter strike 2
+- Could work on other games but depends on the Anti Cheat!
+
 **Tested on Windows 10/11**
