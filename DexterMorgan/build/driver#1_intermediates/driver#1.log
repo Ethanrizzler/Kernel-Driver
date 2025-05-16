@@ -1,0 +1,7 @@
+﻿  Building 'driver#1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  Stamping C:\Users\Ethan\source\repos\DexterMorgan\build\driver#1_intermediates\driver#1.inf
+  Stamping [Version] section with DriverVer=05/15/2025,15.59.22.111
+  DriverEntry.cpp
+  driver#1.vcxproj -> C:\Users\Ethan\source\repos\DexterMorgan\build\driver#1.sys
+SIGNTASK : SignTool error : No certificates were found that met all the given criteria.

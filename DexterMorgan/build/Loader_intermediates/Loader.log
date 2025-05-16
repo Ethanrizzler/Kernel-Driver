@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  functions.cpp
+LIBCMTD.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\Ethan\source\repos\DexterMorgan\build\Loader.exe : fatal error LNK1120: 1 unresolved externals
